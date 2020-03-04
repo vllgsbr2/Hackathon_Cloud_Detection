@@ -9,6 +9,8 @@ and here for the data
 https://wiki.illinois.edu/wiki/display/~kindrtnk/Cloud+Detection+in+MODIS+Satellite+Images
 HDFView can be downloaded here
 https://www.hdfgroup.org/downloads/hdfview/
+NASA World View can be found here
+https://worldview.earthdata.nasa.gov
 '''
 
 import h5py
